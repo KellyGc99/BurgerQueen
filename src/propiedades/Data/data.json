@@ -1,0 +1,84 @@
+{
+    "Menu":{
+        "Café Américano":{
+            "tipo":"Desayuno",
+            "submenu":" ",
+            "precio":"5",
+            "imagen":"propiedades/imagenes/cafe-americano.png"
+        },
+        "Café con Leche":{
+            "tipo":"Desayuno",
+            "submenu":" ",
+            "precio":"7",
+            "imagen":"propiedades/imagenes/cafe-con-leche.png"
+        },
+        "Sandwich de Jamón y Queso":{
+            "tipo":"Desayuno",
+            "submenu":" ",
+            "precio":"10",
+            "imagen":"propiedades/imagenes/sandwich-queso.png"
+        },
+        "Jugo de Frutas Natural":{
+            "tipo":"Desayuno",
+            "submenu":" ",
+            "precio":"7",
+            "imagen":"propiedades/imagenes/jugo-natural.png"
+        },
+        "Hamburguesa Sencilla":{
+            "tipo":"Almuerzo y Cena",
+            "submenu":"Hamburguesas",
+            "precio":"10",
+            "imagen":"propiedades/imagenes/hamburguesa-sencilla.png",
+            "ingredientes":["Res","Pollo","Vegetariana"],
+            "extras":{
+                "Queso":"1",
+                "Huevo":"1"
+            },
+        "Hamburguesa Doble":{
+            "tipo": "Almuerzo y Cena",
+            "submenu": "Hamburguesas",
+            "precio": "15",
+            "imagen": "propiedades/imagenes/hamburguesa-doble.png",
+            "ingredientes":["Res","Pollo","Vegetariana"],
+            "extras":{
+                "Queso": "1",
+                "Huevo": "1"
+        },
+        "Papas Fritas":{
+            "tipo":"Almuerzo y Cena",
+            "submenu":"Acompañamientos",
+            "precio":"5",
+            "imagen":"propiedades/imagenes/papas.png"
+        },
+        "Aros de Cebolla":{
+            "tipo":"Almuerzo y Cena",
+            "submenu":"Acompañamientos",
+            "precio":"5",
+            "imagen":"propiedades/imagenes/aros-de-cebolla.png"
+        },
+        "Agua 500 ml":{
+            "tipo":"Almuerzo y Cena",
+            "submenu":"Acompañamientos",
+            "precio":"5",
+            "imagen":"propiedades/imagenes/agua_500ml.png"
+        },
+        "Agua 750 ml":{
+            "tipo":"Almuerzo y Cena",
+            "submenu":"Acompañamientos",
+            "precio":"7",
+            "imagen":"propiedades/imagenes/agua-750ml.png"
+        },
+        "Gaseosa 500 ml":{
+            "tipo": "Almuerzo y Cena",
+            "submenu": "Acompañamientos",
+            "precio": "7",
+            "imagen": "propiedades/imagenes/gaseosa-500ml.png"
+        },
+        "Gaseosa 750 ml":{
+            "tipo": "Almuerzo y Cena",
+            "submenu": "Acompañamientos",
+            "precio": "10",
+            "imagen": "propiedades/imagenes/gaseosa_750ml.png"
+        }
+    }
+}
